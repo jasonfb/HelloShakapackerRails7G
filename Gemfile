@@ -45,3 +45,5 @@ group :test do
 end
 
 gem "dotenv", "~> 2.7"
+
+gem "react_on_rails", "= 13.0"
