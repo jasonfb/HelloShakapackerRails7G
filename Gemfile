@@ -45,6 +45,6 @@ group :test do
 end
 
 gem "dotenv", "~> 2.7"
-
+gem "shakapacker"
 gem "react_on_rails", "= 13.0"
 gem "mini_racer", platforms: :ruby
